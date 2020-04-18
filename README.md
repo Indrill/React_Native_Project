@@ -21,3 +21,6 @@ Ce projet consiste en une application qui permet d'obtenir l'AQI de la position 
 - "npm install": Permet d'installer les dépendances du projet
 - "npm run lint": Permet de lancer le script eslint
 - "expo start": Permet de lancer expo et de générer le QR code à scanner
+
+# Lien expo vers l'application
+https://exp.host/@ytsos/ReactNativeProject
